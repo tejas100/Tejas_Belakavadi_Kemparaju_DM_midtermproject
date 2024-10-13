@@ -15,7 +15,7 @@
 2. Install required packages: pip install pandas mlxtend
    
 ## Usage
-1. Run the main script: TJ_Datamining.ipynb in jupyteer notebook or TJ_Datamining.py
+1. Run the main script: Belakavadi_Kemparaju_Tejas.ipynb in jupyteer notebook or Belakavadi_Kemparaju_Tejas.py
 2. Follow the prompts to:
 - Select a store for analysis
 - Enter minimum support and confidence thresholds
